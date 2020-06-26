@@ -1,0 +1,27 @@
+User-agent: Googlebot
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /category/
+Allow: /about/
+
+Disallow: /assets/
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /assets/img/
+Disallow: /admin/
+Disallow: /staff/
+Disallow: /contact/
+Disallow: /backup/
+Disallow: /images/
+Disallow: .jpg$
+Disallow: .jpeg$
+Disallow: .gif$
+Disallow: .png$
+Disallow: .bmp$
+
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://techvision.best/sitemap.xml
