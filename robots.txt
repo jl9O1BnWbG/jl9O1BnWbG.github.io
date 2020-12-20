@@ -24,4 +24,4 @@ Disallow: .bmp$
 User-agent: *
 Disallow: /
 
-Sitemap: https://techvision.best/sitemap.xml
+Sitemap: https://bestbabe.stream/sitemap.xml
